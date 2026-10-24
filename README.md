@@ -21,3 +21,7 @@ First repositories will appear here as they are cleaned up for publication.
 - Excel (Power Query, Pivot), Power Automate, Make.com
 - Jira Service Management, BPMN, Visio, ARIS Express
 - SAP EWM (working knowledge)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/wladislav-streidenberger)
